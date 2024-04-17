@@ -41,3 +41,6 @@
 [submodule "documentation/doxygen/doxygen-awesome-css"]
 	path = documentation/doxygen/doxygen-awesome-css
 	url = https://github.com/jothepro/doxygen-awesome-css.git
+[submodule "applications_user/box_mover"]
+	path = applications_user/box_mover
+	url = https://github.com/james-martinez96/box_mover.git
